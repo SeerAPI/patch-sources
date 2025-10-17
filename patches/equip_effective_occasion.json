@@ -1,0 +1,11 @@
+{
+  "type": "patch",
+  "target": "equip_effective_occasion.json",
+  "mode": "create",
+  "path": "",
+  "content": {
+    "0": { "id": 0, "description": "全部战斗有效" },
+    "1": { "id": 1, "description": "仅赛尔间对战有效" },
+    "2": { "id": 2, "description": "仅对Boss有效" }
+  }
+}

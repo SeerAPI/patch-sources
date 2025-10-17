@@ -1,0 +1,11 @@
+{
+  "type": "patch",
+  "target": "pet_gender.json",
+  "mode": "create",
+  "path": "",
+  "content": {
+    "0": { "id": 0, "name": "genderless", "description": "无性别" },
+    "1": { "id": 1, "name": "male", "description": "雄性" },
+    "2": { "id": 2, "name": "female", "description": "雌性" }
+  }
+}

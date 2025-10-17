@@ -1,0 +1,27 @@
+{
+  "type": "unity",
+  "target": "moves.json",
+  "mode": "append",
+  "path": "root.moves.move",
+  "content": [
+    {
+      "atk_num": 0,
+      "atk_type": 0,
+      "category": 1,
+      "friend_side_effect": [],
+      "friend_side_effect_arg": [],
+      "id": 37941,
+      "max_pp": 5,
+      "mon_id": 0,
+      "must_hit": 0,
+      "name": "乱石裂震",
+      "power": 145,
+      "priority": 0,
+      "side_effect": [],
+      "side_effect_arg": [],
+      "type": 7,
+      "info": "",
+      "ordinary": 0
+    }
+  ]
+}

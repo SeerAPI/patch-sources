@@ -1,0 +1,11 @@
+{
+  "type": "patch",
+  "target": "pet_vipbuff.json",
+  "mode": "create",
+  "path": "",
+  "content": {
+    "0": { "id": 0, "name": "none", "description": "无VIP加成" },
+    "1": { "id": 1, "name": "shine", "description": "闪光加成" },
+    "2": { "id": 2, "name": "dark", "description": "暗黑加成" }
+  }
+}

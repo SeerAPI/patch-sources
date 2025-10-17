@@ -1,0 +1,11 @@
+{
+  "type": "patch",
+  "target": "mintmark_type.json",
+  "mode": "create",
+  "path": "",
+  "content": {
+    "0": { "id": 0, "name": "ability", "description": "能力刻印" },
+    "1": { "id": 1, "name": "skill", "description": "技能刻印" },
+    "3": { "id": 3, "name": "universal", "description": "全能刻印" }
+  }
+}

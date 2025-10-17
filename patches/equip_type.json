@@ -1,0 +1,15 @@
+{
+  "type": "patch",
+  "target": "equip_type.json",
+  "mode": "create",
+  "path": "",
+  "content": {
+    "0": { "id": 0, "name": "head", "description": "头部" },
+    "1": { "id": 1, "name": "eye", "description": "面部" },
+    "2": { "id": 2, "name": "waist", "description": "腰部" },
+    "3": { "id": 3, "name": "hand", "description": "手部" },
+    "4": { "id": 4, "name": "foot", "description": "脚部" },
+    "5": { "id": 5, "name": "bg", "description": "背景" },
+    "6": { "id": 6, "name": "mount", "description": "星际座驾" }
+  }
+}

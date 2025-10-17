@@ -1,0 +1,17 @@
+{
+  "type": "patch",
+  "target": "skill_hide_effect.json",
+  "mode": "create",
+  "path": "",
+  "content": {
+    "1": { "id": 1, "name": "crit_atk_first", "original": "CritAtkFirst", "description": "先出手时必定暴击" },
+    "2": { "id": 2, "name": "crit_atk_second", "original": "CritAtkSecond", "description": "后出手时必定暴击" },
+    "3": { "id": 3, "name": "crit_self_half_hp", "original": "CritSelfHalfHp", "description": "自身体力低于一半时必定暴击" },
+    "4": { "id": 4, "name": "crit_foe_half_hp", "original": "CritFoeHalfHp", "description": "对方体力低于一半时必定暴击" },
+    "5": { "id": 5, "name": "dmg_bind_lv", "original": "DmgBindLv", "description": "造成的伤害等于自身等级" },
+    "6": { "id": 6, "name": "dmg_bind_hp_dv", "original": "DmgBindHpDv", "description": "造成的伤害等于自身剩余体力÷2+个体值" },
+    "7": { "id": 7, "name": "pwr_bind_dv1", "original": "PwrBindDv", "description": "威力等于自身个体值×5" },
+    "8": { "id": 8, "name": "pwr_bind_dv2", "original": "PwrBindDv", "description": "威力等于自身最大体力÷3+个体值" },
+    "9": { "id": 9, "name": "pwr_double", "original": "PwrDouble", "description": "若对方处于异常状态，则技能威力翻倍" }
+  }
+}

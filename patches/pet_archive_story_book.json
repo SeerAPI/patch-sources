@@ -1,0 +1,16 @@
+{
+  "type": "patch",
+  "target": "pet_archive_story_book.json",
+  "mode": "create",
+  "path": "",
+  "content": {
+    "1": {
+      "id": 1,
+      "name": "永夜纪年"
+    },
+    "2": {
+      "id": 2,
+      "name": "莱达物语"
+    }
+  }
+}

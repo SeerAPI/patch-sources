@@ -1,0 +1,11 @@
+{
+  "type": "patch",
+  "target": "pet_mount_type.json",
+  "mode": "create",
+  "path": "",
+  "content": {
+    "0": { "id": 0, "name": "none", "description": "不支持坐骑" },
+    "1": { "id": 1, "name": "ride", "description": "骑乘" },
+    "2": { "id": 2, "name": "fly", "description": "飞行" }
+  }
+}
