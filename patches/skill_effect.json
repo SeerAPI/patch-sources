@@ -1,0 +1,83 @@
+{
+    "type": "unity",
+    "target": "skillEffect.json",
+    "mode": "append",
+    "path": "data",
+    "content": [
+        {
+            "Bosseffective": 0,
+            "argsNum": 3,
+            "formattingAdjustment": "",
+            "id": 21,
+            "ifTextItalic": "",
+            "info": "作用{0}回合，每回合反弹对手1/{2}的伤害",
+            "isif": 0,
+            "tagA": "",
+            "tagAboss": 0,
+            "tagB": "",
+            "tagBboss": 0,
+            "tagC": "",
+            "tagCboss": 0
+        },
+        {
+            "Bosseffective": 0,
+            "argsNum": 2,
+            "formattingAdjustment": "",
+            "id": 31,
+            "ifTextItalic": "",
+            "info": "1回合做{0}次攻击",
+            "isif": 0,
+            "tagA": "",
+            "tagAboss": 0,
+            "tagB": "",
+            "tagBboss": 0,
+            "tagC": "",
+            "tagCboss": 0
+        },
+        {
+            "Bosseffective": 0,
+            "argsNum": 2,
+            "formattingAdjustment": "",
+            "id": 41,
+            "ifTextItalic": "",
+            "info": "{0}回合本方受到的火系攻击伤害减半",
+            "isif": 0,
+            "tagA": "",
+            "tagAboss": 0,
+            "tagB": "",
+            "tagBboss": 0,
+            "tagC": "",
+            "tagCboss": 0
+        },
+        {
+            "Bosseffective": 0,
+            "argsNum": 2,
+            "formattingAdjustment": "",
+            "id": 42,
+            "ifTextItalic": "",
+            "info": "{0}回合自己使用电招式伤害×2",
+            "isif": 0,
+            "tagA": "",
+            "tagAboss": 0,
+            "tagB": "",
+            "tagBboss": 0,
+            "tagC": "",
+            "tagCboss": 0
+        },
+        {
+            "Bosseffective": 0,
+            "argsNum": 5,
+            "formattingAdjustment": "",
+            "id": 174,
+            "ifTextItalic": "",
+            "info": "{0}回合内，若对手使用属性攻击则{3}%自身{1}等级+{4}",
+            "isif": 0,
+            "tagA": "",
+            "tagAboss": 0,
+            "tagB": "",
+            "tagBboss": 0,
+            "tagC": "",
+            "tagCboss": 0
+        }
+    ]
+}
